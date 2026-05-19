@@ -1,0 +1,95 @@
+Obs. Code	Start date/time	Stop date/time	Telescopes	BL, (ED)	Bands	Tracking station	P	L	C	K
+raes03f	21.02.2012 1:30	21.02.2012 2:30	GRT:Eb (C),Ys (C),Mc (L),Ev (L)	12	CL		x	0	1	x
+raes03i	17.03.2012 15:00	17.03.2012 16:00	GRT:Nt,Ev,Mc,Us	10	LC		x	2	0	x
+raes03p	04.04.2012 18:30	04.04.2012 19:30	GRT:Ef (C),Ys(C),Nt (C),Ev (L)	5	CL		x	1	1	x
+raes03q	05.04.2012 17:00	05.04.2012 18:00	GRT:Ef (C),Ys (C),Nt (C),Ev (L)	5	CL		x	1	1	x
+raes03aa	27.04.2012 21:30	27.04.2012 23:30	GRT:Ar (C: 21:30-22:00; L: 22:05-22:30; P: 22:35-23:00),Ys (C),Mc (C),Nt (L),GBT(L),Wb (P)	12	CLP		0	1	1	x
+raes03ab	28.04.2012 21:30	28.04.2012 23:00	GRT:Ar (C: 21:30-22:00; L: 22:05-22:30; P: 22:35-23:00),Ef (C),Ys(C),Mc(L),Nt (L),Wb (P)	9	CLP		2	0	1	x
+raes03fw	19.11.2012 8:10	19.11.2012 9:50	GRT:Ar(C:08:10-09:00 L:09:10-09:50),Wb(C:08:10-09:00 L:09:10-09:50),Sv(C)	10	CL		x	1	1	x
+raes03ik	26.12.2012 22:00	26.12.2012 22:40	GRT:Ro(K),Ef(K:22:00-22:20 C:22:20-22:40),Wb(C),Ys(K),Sv(K),Zc(K),Bd(C)	11	CK		x	x	2	2
+raes03iq	31.12.2012 6:40	31.12.2012 7:20	GRT:Ar(C),Gb(K),Ys(C),Sv(K)	9	CK		x	x	2	2
+raes03nj	01.03.2013 17:20	01.03.2013 18:00	GRT:Ys(K),Sv(C),Zc(K),Bd(C)	9	CK		x	x	2	0
+raes03of	12.03.2013 20:20	12.03.2013 21:00	GRT:Ef(L),Wb(L),Nt(L),Ys(K),Ro(K),Mc(L)	11	LK		x	2	x	0
+raes03oh	13.03.2013 19:40	13.03.2013 20:20	GRT:Wb(L),Nt(L),Ev(C),Ys(C),Mc(L)	13	CL		x	2	0	x
+raes03pb	20.03.2013 12:00	20.03.2013 12:40	GRT:Ak(L),Pa(L),Ho(C),At(C),Cd(L),Bd(C)	9	CL		x	0	2	x
+raes03pg	21.03.2013 19:20	21.03.2013 20:00	GRT:Ef(K->C),Ys(K),Tr(C)	11	CK		x	x	2	2
+raes03pi	22.03.2013 19:10	22.03.2013 19:50	GRT:Nt(C),Ev(L),Ys(C),Tr(L)	13	CL		x	0	0	x
+raes03qd	31.03.2013 14:30	31.03.2013 15:10	GRT:Nt(K),Ev(C),Mc(C),Ys(K),Ud(C;LCP)	14	CK		x	x	2	0
+raes03qj	05.04.2013 13:00	05.04.2013 13:40	GRT:Ev(C),Nt(C),Tr(L)	8	CL		x	0	0	x
+raes03qn	06.04.2013 12:00	06.04.2013 12:40	GRT:Ev(L),Tr(L)	9	LL		x	2	x	x
+raes03qx	13.04.2013 12:20	13.04.2013 13:00	GRT:Ev(L),Mc(L),Tr(L)	8	LL		x	0	x	x
+raes03rd	14.04.2013 19:00	14.04.2013 19:40	GRT:Ev(C),Ef(K->C),Mc(K),Nt(C),Ro(K),Tr(K)	9	CK		x	x	1	2
+raes03rl	21.04.2013 19:00	21.04.2013 19:40	GRT:Ev(C),Ef(K->C),Gb(K),Ys(C),Tr(K)	7	CK		x	x	1	1
+raes03ro	22.04.2013 17:20	22.04.2013 18:00	GRT:Ev(C),Ef(K->C),Tr(K)	8	CK		x	x	1	2
+raes03rw	26.04.2013 14:00	26.04.2013 14:40	GRT:Ef(K->C),Ev(C),Wb(C),Ys(C),Tr(K)	14	CK		x	x	1	2
+raks01iq	09.11.2013 10:00	09.11.2013 11:00	GRT:Wb(C->L),Mc(L),Ys(C),Tr(L),Ar(C->L)	11.7	CL	TS: GB	x	1	1	x
+raks01md	10.12.2013 8:00	10.12.2013 9:00	GRT:Ys(C),Tr(C),Jb1(L),	15.5	CL	TS: GB	x	0	2	x
+raks01nt	21.12.2013 6:00	21.12.2013 7:00	GRT:Nt(L),Mc(C),Ef(C),Ys(C),Tr(L),Ar(C->L),Kl(L),	14.2	CL	TS: GB	x	1	1	x
+raks01vd	09.03.2014 1:00	09.03.2014 2:00	GRT:Gb(K),Kl(CK),	10.2	CK	TS: GB	x	x	x	1
+raks01vf	10.03.2014 1:00	10.03.2014 2:00	GRT:Gb(K),Ev(C),Kl(CK),	6	CK	TS: GB	x	x	1	1
+raks01vm	13.03.2014 1:00	13.03.2014 2:00	GRT:Ef(K->C),Ys(K->C),Sv(C),Tr(K),Kl(CK),	14.6	CK	TS: GB	x	x	2	2
+raks01vt	16.03.2014 2:00	16.03.2014 3:00	GRT:Gb(K),Ys(K->C),Tr(K->C),	13.2	CK	TS: GB	x	x	2	1
+raks01xf	27.03.2014 0:00	27.03.2014 1:00	GRT:Ar(C),Ef(K->C),Sv(C),Tr(K->C),Kl(CK),	4.4	CK	TS: GB	x	x	1	1
+raks01xx	03.04.2014 1:00	03.04.2014 1:40	GRT:Ef(K->C),Tr(K->C),	9.7	CK	TS: PU	x	x	1	0
+raks04e	04.04.2014 12:00	05.04.2014 4:30	GRT:Ef(K),Jb2(K),On(K),Mc(K),Nt(K),Tr(K),Ys(K),Sh(K),Hh(K),Kl(K),Ev(K),Gb(K),KVN(K),	3.5	KK	TS: PU	x	x	x	1
+raks01zm	18.04.2014 0:00	18.04.2014 1:00	GRT:Gb(K),Ys(K),Tr(K->C),Ar(C),	15	CK	TS: GB	x	x	1	1
+raks08fh	08.11.2014 9:00	08.11.2014 10:00	GRT:Ar(C),Gb(K),Ys(C),Kl(CK),Tr(K),	16.4	CK	TS: GB	x	x	2	1
+raks08im	04.12.2014 6:00	04.12.2014 7:00	GRT:Ef(K->C),Nt(C),Ys(C),Tr(K),Kl(CK),	15.6	CK	TS: GB	x	x	2	2
+raks08je	09.12.2014 7:00	09.12.2014 8:00	GRT:Sv(C),Ef(K->C),Gb(K),Nt(C),Ys(C),Tr(K),Ar(C),Kl(CK),Sr(K),	4	CK	TS: PU	x	x	1	0
+raks08jm	12.12.2014 22:00	12.12.2014 23:00	GRT:Wb(C->L),Ys(C),Tr(C->L),Hh(C->L),Cd(L),Kl(CL),	14.7	CL	TS: PU	x	2	2	x
+raks08jq	14.12.2014 8:00	14.12.2014 9:00	GRT:Ef(K->C),Nt(C),Ys(C),Tr(K),Ar(C),	12	CK	TS: GB	x	x	1	1
+raks08jv	15.12.2014 21:00	15.12.2014 22:00	GRT:Ef(K->C),Nt(C),Tr(K->C),Hh(K->C),Kl(CK),	5.7	CK	TS: PU	x	x	1	1
+raks08sf	10.03.2015 1:00	10.03.2015 2:00	GRT:Ar(C),Gb(K),	9.5	CK	TS: GB	x	x	1	1
+raks08to	27.03.2015 0:10	27.03.2015 1:00	GRT:Ef(K),Wb(C),Tr(K->C),	11.7	CK	TS: GB	x	x	1	1
+raks08tx	29.03.2015 1:00	29.03.2015 2:00	GRT:Ar(P),Ef(K),Ys(K),Tr(K),	4.2	PK	TS: GB	1	x	x	1
+raks08ur	03.04.2015 22:00	03.04.2015 22:50	GRT:Ef(K->C),Nt(C),Tr(K->C),Ys(K),	12.9	CK	TS: GB	x	x	1	2
+raks08vq	15.04.2015 20:00	15.04.2015 20:40	GRT:Ef(K->C),Hh(K->C),Tr(K),Wb(C),Ys(K)	3.8	CK		x	x	1	1
+raks12ev	06.11.2015 9:00	06.11.2015 10:00	GRT:Ys(K->C),Mc(K),Tr(C)	6.3	CK		x	x	1	2
+raks12gq	17.11.2015 19:00	17.11.2015 20:00	GRT:Pa(L),At(C),Ho(C),Cd(L)	10.6	CL		x	1	1	x
+raks12hg	22.11.2015 23:00	23.11.2015 0:00	GRT:Cd(C)?,Ef(K->C),Hh(K->C),Mc(K),Tr(C),Ys(K)	5.9	CK		x	x	1	1
+raks12hu	30.11.2015 9:00	30.11.2015 10:00	GRT:Ar(C->L),Ys(C),Tr(L),	7.2	CL	TS: GB	x	1	1	x
+raks12hx	01.12.2015 4:00	01.12.2015 5:00	GRT:Hh(K->C),Tr(K->C),Ys(K->C)	6.3	CK		x	x	1	2
+raks12is	12.12.2015 8:00	12.12.2015 9:00	GRT:Mc(C),Tr(C),Ir(C)	8.9	CL		x	x	1	x
+raks12jm	20.12.2015 2:00	20.12.2015 3:00	GRT:Gb(K),Hh(K->C),Tr(C),Ys(K),Ir(C)	7.6	CK	TS: PUTS: GB	x	x	1	1
+raks12kd	27.12.2015 6:00	27.12.2015 7:00	GRT:Ar(C->L),Ys(C),Tr(L)?,Ir(C)	6.8	CL		x	x	1	x
+raks12lf	08.01.2016 5:00	08.01.2016 6:00	GRT:Ef(K->C),Wb(C),Mc(K),Tr(C),Ir(C),	9.2	CK	TS: PU	x	x	2	1
+raks12qm	03.03.2016 3:00	03.03.2016 4:00	GRT:Mc(K),Tr(K),	7.5	KK	TS: GB	x	x	x	2
+rags18h	17.03.2016 2:00	17.03.2016 4:00	GRT:Gb(K),Tr(K),Ys(K),	9.5	KK	TS: GB	x	x	x	1
+raks12sp	26.03.2016 0:00	26.03.2016 1:00	GRT:Ef(K),Ys(K),Tr(K),	9.5	KK	TS: GB	x	x	x	2
+raks12sy	29.03.2016 1:00	29.03.2016 2:00	GRT:Ar(C)?,Ef(K),Mc(K),Nt(C),Tr(C),	7	CK	TS: GB	x	x	1	1
+raks12tf	01.04.2016 1:00	01.04.2016 2:00	GRT:Gb(L),Tr(L),	7.4	LL	TS: GB	x	1	x	x
+raks12ua	07.04.2016 23:00	08.04.2016 0:00	GRT:Gb(K),Tr(K),Ro(K)	5.8	KK		x	x	x	1
+raks12un	13.04.2016 23:00	14.04.2016 0:00	GRT:Gb(K),Tr(K),Ys(K)	8.7	KK		x	x	x	1
+raks12uo	14.04.2016 23:00	15.04.2016 0:00	GRT:Ef(L),Mc(L),Tr(L),Wb(L)	7.4	LL		x	1	x	x
+raks12us	16.04.2016 0:00	16.04.2016 1:00	GRT:Ys(K->C),Mc(K),Tr(C),Ro(K),	5.8	CK	TS: PUTS: GB	x	x	1	0
+raks12uw	18.04.2016 19:00	18.04.2016 20:00	GRT:Hh(C->L),Ir(C),Nt(C),Tr(L),Wb(L)	8.5	CL		x	1	0	x
+raks12ux	19.04.2016 19:00	19.04.2016 20:00	GRT:Ir(C),Nt(C),Tr(L),Wb(L),Ys(C)	10.1	CL		x	0	1	x
+raks12uy	21.04.2016 20:00	21.04.2016 21:00	GRT:Hh(L),Ir(C),Tr(C),Wb(L),	9.7	CL	TS: PUTS: GB	x	0	2	x
+raks12vb	23.04.2016 14:00	23.04.2016 15:00	GRT:Ef(K->C)?,Hh(K->C),Ir(C),Mc(K),Nt(K),Tr(C),Wb(C),Ys(K->C)	7.4	CK		x	x	1	1
+raks12vc	24.04.2016 14:00	24.04.2016 15:00	GRT:Ef(K->C),Hh(K->C),Ir(C),Mc(K),Nt(K),Tr(C),Wb(C),Ys(K)	5.9	CK		x	x	1	2
+raks12vh	27.04.2016 13:00	27.04.2016 14:00	GRT:Cd(L),Hh(L),Tr(L),Wb(L)	8.7	LL		x	1	x	x
+raks12vi	28.04.2016 23:00	29.04.2016 0:00	GRT:Ar(L),Ef(C),Ir(C),Tr(L),	10.3	CL	TS: PUTS: GB	x	1	1	x
+raks16cp	07.11.2016 9:00	07.11.2016 10:00	GRT:Ir(C),Mc(C),Nt(K),Tr(C),Ys(K),	14.7	CK	TS: PU	x	x	2	0
+raks16cr	09.11.2016 10:00	09.11.2016 11:00	GRT:Ar(C),Gb(K),Ib(C),Nt(K),Tr(C),	11.4	CK	TS: PUTS: GB	x	x	1	2
+raks16cs	10.11.2016 9:00	10.11.2016 10:00	GRT:Ar(C->L),Ir(C),	8.2	CL	TS: PUTS: GB	x	1	1	x
+raks16cu	11.11.2016 9:00	11.11.2016 10:00	GRT:Ef(K->C),Nt(K),Tr(C),Ir(C),	4.4	CK	TS: PUTS: GB	x	x	1	1
+raks16fk	06.12.2016 7:00	06.12.2016 8:00	GRT:Ar(C),Ef(K),Ys(K),Tr(C),	15.5	CK	TS: GB	x	x	1	2
+raks16fr	08.12.2016 8:00	08.12.2016 9:00	GRT:Gb(K),Mc(K),	12.2	KK	TS: GB	x	x	x	0
+raks16fu	09.12.2016 7:00	09.12.2016 8:00	GRT:Ar(C->L),Mc(L),Tr(C),Ib(L),Wb(L),	9	CL	TS: GB	x	1	1	x
+raks16pq	24.04.2017 18:00	24.04.2017 19:00	GRT:Gb(K),Ys(C)?,Wb(C),Nt(C),Tr(K),Ir(C),	10.9	CK	TS: PU	x	x	2	2
+raks16px	27.04.2017 23:00	28.04.2017 0:00	GRT:Ar(L->C),Wb(L),Tr(C),Ir(C),	4.8	CL	TS: GB	x	0	1	x
+raks18dy	09.11.2017 1:10	09.11.2017 2:00	GRT:Bd(K),Ef(K),Hh(K->L),Ir(L),Mc(K),Sv(L),Tr(L),Ys(K),Zc(L),	7.4	LK	TS: PUTS: PU	x	2	x	2
+raks18ee	10.11.2017 10:00	10.11.2017 11:00	GRT:Ir(C),Nt(C),Tr(C),Ar(L)	10.3	CL	TS: GBTS: GB	x	1	2	x
+raks18eh	11.11.2017 10:20	11.11.2017 11:00	GRT:Ir(C),Mc(C),Nt(C),Tr(C),Ar(L)	11.9	CL	TS: GBTS: GB	x	1	2	x
+raks18ev	19.11.2017 9:10	19.11.2017 10:00	GRT:Ef(K->C),Ir(C),Nt(C),Tr(K),Ar(C)	10.5	CK	TS: GBTS: GB	x	x	1	2
+raks18ez	21.11.2017 8:00	21.11.2017 9:00	GRT:Gb(K),Ir(C),Nt(C),Ys(K),Ar(C)	12.8	CK	TS: GBTS: GB	x	x	1	1
+raks18hb	14.12.2017 23:00	15.12.2017 0:00	GRT:Bd(C),Hh(C),Sv(C),Zc(C),	9.4	CL	TS: PUTS: PU	x	x	1	x
+raks18nj	21.02.2018 21:00	21.02.2018 22:00	GRT:Bd(L),Ef(C)?,Hh(L),Ib(C),Nt(C),Tr(C),Zc(L),	11.6	CL	TS: PUTS: PU	x	2	1	x
+raks18oa	02.03.2018 15:00	02.03.2018 16:00	GRT:Mp(C),Ho(L),Cd(L),	11.1	CL	TS: PUTS: PU	x	x	x	x
+raks18oj	06.03.2018 11:00	06.03.2018 12:00	GRT:Td(K),Mp(K),Ho(L),Cd(L),	5.3	KL	TS: PUTS: PU	x	x	x	1
+raks18on	07.03.2018 13:00	07.03.2018 14:00	GRT:Mp(C),Cd(L),Td(L),	8.6	CL	TS: PUTS: PU	x	0	0	x
+raks18ox	11.03.2018 16:00	11.03.2018 17:00	GRT:Ef(K:16:00-16:30),Hh(C:16:00-16:45),Ib(C),Tr(C),Ys(K->C),	11.2	CK	TS: PUTS: PU	x	x	1	2
+raks18ro	19.04.2018 23:00	20.04.2018 0:00	GRT:Ar(C),Gb(K),Wb(C),Sv(K),Tr(K),Ib(C),		CK	TS: GBTS: GB	x	x	1	1
+raks18rq	20.04.2018 23:00	21.04.2018 0:00	GRT:Ar(C->L),Gb(L),Wb(C),Tr(L),Ib(C),		CL	TS: GBTS: GB	x	1	2	x
+raks18ru	24.04.2018 22:00	24.04.2018 23:00	GRT:Ar(C),Gb(K),Wb(C),Tr(K),Ib(C),		CK	TS: GBTS: GB	x	x	1	2
+raks18rw	29.04.2018 23:00	30.04.2018 0:00	GRT:Ar(C),Ef(K),Gb(K),Ib(C),Mc(K),Nt(C),Tr(C),		CK	TS: GBTS: GB	x	x	2	2
