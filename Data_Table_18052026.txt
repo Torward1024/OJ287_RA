@@ -31,7 +31,6 @@ raks01vm	13.03.2014 1:00	13.03.2014 2:00	GRT:Ef(K->C),Ys(K->C),Sv(C),Tr(K),Kl(CK
 raks01vt	16.03.2014 2:00	16.03.2014 3:00	GRT:Gb(K),Ys(K->C),Tr(K->C),	13.2	CK	TS: GB	x	x	2	1
 raks01xf	27.03.2014 0:00	27.03.2014 1:00	GRT:Ar(C),Ef(K->C),Sv(C),Tr(K->C),Kl(CK),	4.4	CK	TS: GB	x	x	1	1
 raks01xx	03.04.2014 1:00	03.04.2014 1:40	GRT:Ef(K->C),Tr(K->C),	9.7	CK	TS: PU	x	x	1	0
-raks04e	04.04.2014 12:00	05.04.2014 4:30	GRT:Ef(K),Jb2(K),On(K),Mc(K),Nt(K),Tr(K),Ys(K),Sh(K),Hh(K),Kl(K),Ev(K),Gb(K),KVN(K),	3.5	KK	TS: PU	x	x	x	1
 raks01zm	18.04.2014 0:00	18.04.2014 1:00	GRT:Gb(K),Ys(K),Tr(K->C),Ar(C),	15	CK	TS: GB	x	x	1	1
 raks08fh	08.11.2014 9:00	08.11.2014 10:00	GRT:Ar(C),Gb(K),Ys(C),Kl(CK),Tr(K),	16.4	CK	TS: GB	x	x	2	1
 raks08im	04.12.2014 6:00	04.12.2014 7:00	GRT:Ef(K->C),Nt(C),Ys(C),Tr(K),Kl(CK),	15.6	CK	TS: GB	x	x	2	2
@@ -54,7 +53,6 @@ raks12jm	20.12.2015 2:00	20.12.2015 3:00	GRT:Gb(K),Hh(K->C),Tr(C),Ys(K),Ir(C)	7.
 raks12kd	27.12.2015 6:00	27.12.2015 7:00	GRT:Ar(C->L),Ys(C),Tr(L)?,Ir(C)	6.8	CL		x	x	1	x
 raks12lf	08.01.2016 5:00	08.01.2016 6:00	GRT:Ef(K->C),Wb(C),Mc(K),Tr(C),Ir(C),	9.2	CK	TS: PU	x	x	2	1
 raks12qm	03.03.2016 3:00	03.03.2016 4:00	GRT:Mc(K),Tr(K),	7.5	KK	TS: GB	x	x	x	2
-rags18h	17.03.2016 2:00	17.03.2016 4:00	GRT:Gb(K),Tr(K),Ys(K),	9.5	KK	TS: GB	x	x	x	1
 raks12sp	26.03.2016 0:00	26.03.2016 1:00	GRT:Ef(K),Ys(K),Tr(K),	9.5	KK	TS: GB	x	x	x	2
 raks12sy	29.03.2016 1:00	29.03.2016 2:00	GRT:Ar(C)?,Ef(K),Mc(K),Nt(C),Tr(C),	7	CK	TS: GB	x	x	1	1
 raks12tf	01.04.2016 1:00	01.04.2016 2:00	GRT:Gb(L),Tr(L),	7.4	LL	TS: GB	x	1	x	x
