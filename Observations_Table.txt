@@ -87,7 +87,7 @@ raks18oa	02.03.2018 15:00	02.03.2018 16:00	GRT:Mp(C),Ho(L),Cd(L),	11.1	CL	TS: PU
 raks18oj	06.03.2018 11:00	06.03.2018 12:00	GRT:Td(K),Mp(K),Ho(L),Cd(L),	5.3	KL	TS: PUTS: PU	x	x	x	1
 raks18on	07.03.2018 13:00	07.03.2018 14:00	GRT:Mp(C),Cd(L),Td(L),	8.6	CL	TS: PUTS: PU	x	0	0	x
 raks18ox	11.03.2018 16:00	11.03.2018 17:00	GRT:Ef(K:16:00-16:30),Hh(C:16:00-16:45),Ib(C),Tr(C),Ys(K->C),	11.2	CK	TS: PUTS: PU	x	x	1	2
-raks18ro	19.04.2018 23:00	20.04.2018 0:00	GRT:Ar(C),Gb(K),Wb(C),Sv(K),Tr(K),Ib(C),		CK	TS: GBTS: GB	x	x	1	1
-raks18rq	20.04.2018 23:00	21.04.2018 0:00	GRT:Ar(C->L),Gb(L),Wb(C),Tr(L),Ib(C),		CL	TS: GBTS: GB	x	1	2	x
-raks18ru	24.04.2018 22:00	24.04.2018 23:00	GRT:Ar(C),Gb(K),Wb(C),Tr(K),Ib(C),		CK	TS: GBTS: GB	x	x	1	2
-raks18rw	29.04.2018 23:00	30.04.2018 0:00	GRT:Ar(C),Ef(K),Gb(K),Ib(C),Mc(K),Nt(C),Tr(C),		CK	TS: GBTS: GB	x	x	2	2
+raks18ro	19.04.2018 23:00	20.04.2018 0:00	GRT:Ar(C),Gb(K),Wb(C),Sv(K),Tr(K),Ib(C),	10.4	CK	TS: GBTS: GB	x	x	1	1
+raks18rq	20.04.2018 23:00	21.04.2018 0:00	GRT:Ar(C->L),Gb(L),Wb(C),Tr(L),Ib(C),	11.7	CL	TS: GBTS: GB	x	1	2	x
+raks18ru	24.04.2018 22:00	24.04.2018 23:00	GRT:Ar(C),Gb(K),Wb(C),Tr(K),Ib(C),	8.2	CK	TS: GBTS: GB	x	x	1	2
+raks18rw	29.04.2018 23:00	30.04.2018 0:00	GRT:Ar(C),Ef(K),Gb(K),Ib(C),Mc(K),Nt(C),Tr(C),	13.1	CK	TS: GBTS: GB	x	x	2	2
